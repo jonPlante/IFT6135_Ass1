@@ -14,4 +14,5 @@ Problem 3: DL_Ass1_P3.ipynb
 To generate data download data from kaggle and use: generateData.py
 
 Submission file: submission_file 
+
 Final model for P3: CCN_model_catsDogs.pkl
